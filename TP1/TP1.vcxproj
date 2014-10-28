@@ -63,14 +63,18 @@
     <ClCompile Include="A.cpp" />
     <ClCompile Include="ArithmeticMethods.cpp" />
     <ClCompile Include="B.cpp" />
+    <ClCompile Include="Complex.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PointersManipulation.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="A.h" />
     <ClInclude Include="ArithmeticMethods.h" />
     <ClInclude Include="B.h" />
+    <ClInclude Include="Complex.h" />
     <ClInclude Include="PointersManipulation.h" />
+    <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
